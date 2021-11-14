@@ -1,1 +1,3 @@
-# stock-analysis
+# Stock-Analysis - VBA of Wall Street 
+# Overview of Project 
+For the given dataset of different stocks and their information relating to the performance have been analysed initialy to assess the performance of the each stocks for the given years. By clicking the button "Run analysis for alll the stocks " the entire data set can be analysed. As the given data set is not included the whole stock market, the main pupose of this analysis to expand the whole data set in the stock market in the last few years and determine how fast that the code can be run to get the desired results by refatoring the initial VBA script in the given data set. 
