@@ -25,9 +25,9 @@ See the attached images of the refactored run time for each year.
 <img width="341" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/93173498/141704488-e0b44497-4f91-400a-aead-b478abb06a0e.png">
 
 ## Initial code vs refactored code 
-*As per the initial code, the search is done by one ticker at a time. The search has to be finished to start a new ticker. 
+* As per the initial code, the search is done by one ticker at a time. The search has to be finished to start a new ticker. 
 
-*As per the refactored code , the search is read any ticker, identify the value , add the volume in the same index as the code consists new 3 output arrays.
+* As per the refactored code , the search is read any ticker, identify the value , add the volume in the same index as the code consists new 3 output arrays.
 See the attached refactored code for the refernece. 
 
 
