@@ -31,6 +31,10 @@ See the attached images of the refactored run time for each year.
 See the attached refactored code for the refernece. 
 
  
+   
+
+
+ 
     '1a) Create a ticker Index
     tickerIndex = 0
 
@@ -44,6 +48,7 @@ See the attached refactored code for the refernece.
     tickerVolumes(i) = 0
    
  Next i
+        
         
    
     
