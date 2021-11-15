@@ -31,18 +31,18 @@ See the attached images of the refactored run time for each year.
 See the attached refactored code for the refernece. 
 
 
-  '1a) Create a ticker Index
+   1a) Create a ticker Index
     tickerIndex = 0
-
-    '1b) Create three output arrays
+   
+   1b) Create three output arrays
     Dim tickerVolumes(12) As Long
     Dim tickerStartingPrices(12) As Single
     Dim tickerEndingPrices(12) As Single
     
-    '2a) Create a for loop to initialize the tickerVolumes to zero.
+   2a) Create a for loop to initialize the tickerVolumes to zero.
     For i = 0 To 11
     tickerVolumes(i) = 0
-   
+ 
  Next i
         
     ''2b) Loop over all the rows in the spreadsheet.
