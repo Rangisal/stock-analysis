@@ -2,6 +2,8 @@
 # Overview of Project 
 For the given dataset of different stocks and their information relating to the performance have been analysed initialy to assess the performance of the each stocks for the given years. By clicking the button "Run analysis for all the stocks " the entire data set can be analysed. As the given data set is not included the whole stock market, the main pupose of this analysis to find out if the whole data set is expanded in the stock market in the last few years and determine how fast that the code can be run to get the desired results by refatoring the initial VBA script in the given data set. For that purpose the given data set carring 12 stocks for 2017 and 2018 will be analysed to see their performance and run time for future investments. Please see the attached link for the original data set and output worksheet. 
 
+https://github.com/Rangisal/stock-analysis/blob/main/VBA_Challenge.xlsm
+
 
 
 # Results 
