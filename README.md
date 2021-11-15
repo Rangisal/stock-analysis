@@ -99,9 +99,9 @@ See the attached refactored code for the refernece.
    
   # Summary 
   
-  eeeeeeee
-  
     ## Advantages and disadvantages of refactoring the code in general.
+  
+  
     
     ### Advantages - Save time with the analysis as it runs faster than the original 
     ### Disadvantage - Time consuming to write the codes. 
