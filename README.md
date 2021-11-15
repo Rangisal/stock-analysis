@@ -99,7 +99,8 @@ See the attached refactored code for the refernece.
    
   # Summary 
   
-    ## Advantages and disadvantages of refactoring the code in general.
+   
+   ## Advantages and disadvantages of refactoring the code in general.
   
   
     
