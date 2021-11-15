@@ -45,6 +45,7 @@ See the attached refactored code for the refernece.
     
     ''2a) Create a for loop to initialize the tickerVolumes to zero.
     For i = 0 To 11
+    
     tickerVolumes(i) = 0
    
  Next i
