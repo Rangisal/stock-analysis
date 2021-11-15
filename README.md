@@ -15,3 +15,17 @@ As per the below comparison of the 2 tables it cleary shows the total daily volu
 
 <img width="241" alt="Performance - 2018" src="https://user-images.githubusercontent.com/93173498/141703692-e42a035b-774b-499b-9ed8-08b3ab56f1b6.png">
 
+## Refactored Run time 
+
+The refactored codes took 0.38 seconds to run in 2018 and took 0.35 seconds in 2017. It was less time than the original code run time. 
+See the attached images of the refactored run time for each year. 
+
+<img width="282" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/93173498/141704478-16a26154-1888-4b6f-a43a-62ab99323415.png">
+
+<img width="341" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/93173498/141704488-e0b44497-4f91-400a-aead-b478abb06a0e.png">
+
+
+
+
+
+
