@@ -11,7 +11,7 @@ https://github.com/Rangisal/stock-analysis/blob/main/VBA_Challenge.xlsm
 
 As per the below comparison of the 2 tables it cleary shows the total daily volume and the return of each fund in the given 2 years. It had been a really a good year in 2017 for all the given stocks except the TERP. The stocks ENPH and RUN had been performed very good in both years. However it indicates that eventhough the total daily volume increases it still can be given a negative or less return over a year. For example the stocks DQ, HASI, SEDG, VSLR shows a negative return while ENPH a less return eventhough the volume has increased.
 
-<img width="271" alt="Performance - 2017" src="https://user-images.githubusercontent.com/93173498/141703639-611b65bc-5f38-4165-b4da-6fc03504ce95.png">
+https://github.com/Rangisal/stock-analysis/blob/main/Performance%20-%202017.png
 
 
 
