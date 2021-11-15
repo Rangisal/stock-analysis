@@ -102,19 +102,16 @@ See the attached refactored code for the refernece.
    
    ## Advantages and disadvantages of refactoring the code in general.
    
-   Advantages - Save time with the analysis as it runs faster than the original 
-   Disadvantage - Time consuming to write the codes. 
-  
-  
-    
-    ### Advantages - Save time with the analysis as it runs faster than the original 
-    ### Disadvantage - Time consuming to write the codes. 
-    
-    ## Advantages and disadvantages of the original and refactored VBA script.
-    
-    ### Advantages - Save time with analysis as it runs faster than the original as mentioned above. If this code work for more than 12 stocks it would be great time saving           to do a analysis based on the retun and the volume. 
-    ### Disadvantage - The new refactored code run for the given sorted data set. if it is unsorted, a new code has to be added to sort the data. Also it is time consuming if         we have to add more names to tickers if there are so many new stock names to be added. 
+   * Advantages - Save time with the analysis as it runs faster than the original.
+   * Disadvantage - Time consuming to write the codes. 
+   
+   ## Advantages and disadvantages of the original and refactored VBA script.
+   * Advantages - Save time with analysis as it runs faster than the original as mentioned above. If this code work for more than 12 stocks it would be great time saving          to do a analysis based on the retun and the volume. 
+   * Disadvantage - The new refactored code run for the given sorted data set. if it is unsorted, a new code has to be added to sort the data. Also it is time consuming if        we have to add more names to tickers if there are so many new stock names to be added. 
 
+   
+    
+    
 
 
 
