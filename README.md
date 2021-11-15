@@ -28,7 +28,7 @@ See the attached images of the refactored run time for each year.
 *As per the initial code, the search is done by one ticker at a time. The search has to be finished to start a new ticker. 
 
 *As per the refactored code , the search is read any ticker, identify the value , add the volume in the same index as the code consists new 3 output arrays.
-See the attached code for the refernece. 
+See the attached refactored code for the refernece. 
 
 
   '1a) Create a ticker Index
