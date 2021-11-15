@@ -35,8 +35,11 @@ See the attached refactored code for the refernece.
     
 
     '1b) Create three output arrays
+    
     Dim tickerVolumes(12) As Long
+    
     Dim tickerStartingPrices(12) As Single
+    
     Dim tickerEndingPrices(12) As Single
     
     
